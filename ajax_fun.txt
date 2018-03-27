@@ -1,0 +1,4 @@
+﻿ajax is not a technology but group of inter-related technologies.<br/>
+Dom is used for dynamic display and interaction with data.
+
+ 

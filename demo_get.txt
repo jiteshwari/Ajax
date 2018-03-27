@@ -1,0 +1,2 @@
+﻿welcome. <br/>
+ requested using the GET method.
